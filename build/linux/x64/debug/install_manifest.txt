@@ -1,0 +1,14 @@
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/pax
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/lib/liburl_launcher_linux_plugin.so
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/assets/pizza.png
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/assets/twitter.png
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/rad/FluPor/pax/build/linux/x64/debug/bundle/data/flutter_assets/version.json
